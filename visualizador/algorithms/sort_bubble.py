@@ -12,6 +12,7 @@ def init(vals):
     i = 0
     j = 0
 
+
 def step():
     global items, n, i, j
 
